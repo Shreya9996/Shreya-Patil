@@ -68,7 +68,6 @@
 - 🏠 House Price Prediction System  
 - 🏥 Healthcare Outcome Prediction  
 - 🌍 Rural Health Care Management System  
-- 🌉 CivSetu - Civic Issue Management Platform  
 - 🤖 Multiple Machine Learning Projects  
 
 ---
