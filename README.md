@@ -1,15 +1,17 @@
 # Shreya-Patil
 
 <h1 align="center">Hi 👋, I'm Shreya Patil</h1>
-<h3 align="center">A Passionate Full Stack Developer & Machine Learning Enthusiast</h3>
+<h3 align="center">A Passionate Data Scientist & Machine Learning Enthusiast</h3>
 
 ---
 
 ## 🌐 Socials
 
 - 📧 Email: shreyapatil9681@gmail.com  
-- 🔗 LinkedIn: https://https://www.linkedin.com/in/shreya-patil-1037a1352?utm_source=share_via&utm_content=profile&utm_medium=member_android/in/your-profile  
-- 📸 Instagram: https://instagram.com/Shreya Patil  
+- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
+- 📸 Instagram: https://instagram.com/yourusername  
+- 🐦 X (Twitter): https://twitter.com/yourusername  
+ 
    
 
 ---
@@ -29,6 +31,9 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
